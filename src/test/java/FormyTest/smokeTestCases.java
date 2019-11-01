@@ -9,6 +9,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.List;
 
+// This is for smoke Test cases
+
 public class smokeTestCases {
 
     @Test
